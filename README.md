@@ -82,10 +82,10 @@ Aquí tienes un resumen de tu arsenal. Para superar los retos de este CTF tendr�
 
 ## Seguridad al reiniciar el taller
 
-**Atención:** la orden \`make reset\` de este repositorio utiliza \`git reset --hard origin/main\` y \`git clean -fd\`. Puede descartar cambios locales y borrar archivos no versionados. **No la ejecutes en un repositorio con trabajo que quieras conservar.** Revisa primero \`git status\` y guarda una copia de los cambios importantes. Está pendiente incorporar una confirmación explícita al script.
+**Atención:** la orden `make reset` de este repositorio utiliza `git reset --hard origin/main` y `git clean -fd`. Puede descartar cambios locales y borrar archivos no versionados. **No la ejecutes en un repositorio con trabajo que quieras conservar.** Revisa primero `git status` y guarda una copia de los cambios importantes. Está pendiente incorporar una confirmación explícita al script.
 
 ## Origen y contribuciones
 
-Este repositorio incluye materiales para practicar Git en actividades de aprendizaje colaborativo vinculadas al entorno de **42 Málaga Fundación Telefónica**. La guía de inicio apunta a \`casimarasn/Git_Ctf_42\` como repositorio de referencia; esa procedencia se mantiene de forma visible. La autoría de las actividades y las contribuciones de cada participante deben verificarse antes de presentarlas como trabajo propio.
+Este repositorio incluye materiales para practicar Git en actividades de aprendizaje colaborativo vinculadas al entorno de **42 Málaga Fundación Telefónica**. La guía de inicio apunta a `casimarasn/Git_Ctf_42` como repositorio de referencia; esa procedencia se mantiene de forma visible. La autoría de las actividades y las contribuciones de cada participante deben verificarse antes de presentarlas como trabajo propio.
 
 Mi interés profesional está en la formación y el desarrollo de personas que trabajan con tecnología. No se atribuyen aquí funciones de dirección ni resultados de talleres que todavía no estén documentados.
